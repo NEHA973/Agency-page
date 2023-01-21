@@ -355,7 +355,7 @@ img {
 .container4 {
     display: flex;
     justify-content: center;
-    gap: 40rem;
+    gap: 43rem;
 }
 
 .row1 {
@@ -558,7 +558,7 @@ img {
 
 .sub {
     margin-left: 20rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
     margin-right: 3rem;
     font-family: 'Muli';
     font-size: 49px;
